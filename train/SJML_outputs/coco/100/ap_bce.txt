@@ -1,0 +1,81 @@
+Tag,AP
+person,97.25
+bicycle,56.06
+car,65.29
+motorcycle,89.60
+airplane,97.14
+bus,82.69
+train,96.52
+truck,58.84
+boat,85.74
+traffic light,70.09
+fire hydrant,82.66
+stop sign,72.67
+parking meter,66.03
+bench,56.32
+bird,75.61
+cat,94.85
+dog,73.01
+horse,93.61
+sheep,95.41
+cow,92.75
+elephant,98.57
+bear,83.77
+zebra,97.56
+giraffe,99.63
+backpack,27.73
+umbrella,77.65
+handbag,27.52
+tie,72.89
+suitcase,73.01
+frisbee,95.32
+skis,89.94
+snowboard,84.04
+sports ball,42.27
+kite,97.23
+baseball bat,95.14
+baseball glove,72.45
+skateboard,97.27
+surfboard,96.96
+tennis racket,99.36
+bottle,30.02
+wine glass,57.68
+cup,37.00
+fork,49.94
+knife,34.81
+spoon,30.18
+bowl,48.71
+banana,79.92
+apple,54.91
+sandwich,73.76
+orange,51.63
+broccoli,83.22
+carrot,71.40
+hot dog,81.85
+pizza,94.25
+donut,86.29
+cake,83.80
+chair,56.24
+couch,73.25
+potted plant,17.35
+bed,90.98
+dining table,71.16
+toilet,96.92
+tv,64.21
+laptop,81.33
+mouse,60.80
+remote,66.68
+keyboard,73.27
+cell phone,61.17
+microwave,68.43
+oven,63.99
+toaster,9.70
+sink,81.53
+refrigerator,65.14
+book,35.19
+clock,68.88
+vase,61.05
+scissors,60.58
+teddy bear,85.00
+hair drier,16.63
+toothbrush,62.61
