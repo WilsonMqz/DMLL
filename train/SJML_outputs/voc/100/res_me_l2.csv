@@ -1,3 +1,0 @@
-epoch,train_loss,mAP,HammingLoss,Coverage,AP,RankingLoss,OneError
-0,0.0138,92.182,0.5789,0.0340,0.9732,0.0070,0.0227
-1,0.0129,93.753,0.5132,0.0318,0.9785,0.0056,0.0168
